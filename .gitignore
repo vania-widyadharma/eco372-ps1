@@ -1,0 +1,6 @@
+# Intermediate datasets -- rebuilt by code/01_build.do, so not tracked
+data/*.dta
+
+# Stata / OS noise
+*.smcl
+.DS_Store
